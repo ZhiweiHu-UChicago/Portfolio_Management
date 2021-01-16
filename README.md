@@ -2,8 +2,8 @@
 
 #### Zhiwei Hu, The University of Chicago, MSc in Financial Mathematics
 This is the folder I use to store all Portfolio Management Codes/Theories I learnt and experimented at UChicago.
-Some of the codes are based on the coding examples provided by **Prof. Mark Hendrics**, while I did modifications
-Source data is also provided in this respository.
+Some of the codes are based on the coding examples provided by **Prof. Mark Hendrics**, while I did modifications.
+Source data is also provided in this repository.
 
 #### Topics includes:
 1. M-V Frontier and M-V Optimizations
