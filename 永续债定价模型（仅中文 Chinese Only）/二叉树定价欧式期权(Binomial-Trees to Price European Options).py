@@ -54,7 +54,7 @@ def CRR_european_option_value(S0, K, T, r, sigma, otype, M=5):
     #print(mu)
     #print(md)
     
-    #得到各节点的股票价格
+    #得到各节点价格
     S = S0 * mu * md
     #print(S)
 
